@@ -153,11 +153,13 @@
 
   }
  /*Fin del css del navbar*/
-
+ #servicios {
+  border-radius: 50%;
+}
 /*Inicio del css del grid */
 .grid-container {
   display: grid;
-  grid-template-columns: auto auto auto auto;
+  grid-template-columns: auto auto auto;
   padding: 10px;
 }
 .grid-item {
